@@ -42,7 +42,7 @@ class TwitterListner(tweepy.StreamListener):
         """
         Override the on_status method of tweepy.StreamListener. 
         """
-        json_str = json.dumps(status._json)
+        #json_str = json.dumps(status._json)
         
         # with open(staus_path, "w") as f:
         #     f.write( json_str )
@@ -72,48 +72,11 @@ class TwitterListner(tweepy.StreamListener):
                 #'urls' : status.entities.get('urls').expanded_url,
                 'urls' : all_urls
             }
-
-
             
             while(self.curr_time <= self.end_time):
                 store.push(tweet_item)
                 print(tweet_item)
-                staus_path = '/home/basant/Documents/tweet_analysis/user_report.txt'
                 self.generate_reports()
-                # if(time.time() >= self.curr_time + 50 and time.time() <= self.curr_time + 60):
-                #     with open(staus_path, "a") as f:
-                #         #f.write(" [1] : " + str(tweet_item) + '\n')
-                #         #print(Counter(store.fetch_user_report("Mohansainikpuri")))
-                #         Counter(store.fetch_user_report(self.keyword))
-                #         f.write(" [1] : " + str(store.fetch_user_report(self.keyword)) + '\n')
-                #         f.write(" [1] : " + str(Counter(store.fetch_user_report(self.keyword))) + '\n')
-                #     print(tweet_item)
-                    
-                # if(time.time() >= self.curr_time + 60 and time.time() <= self.curr_time + 120):
-                #     with open(staus_path, "w") as f:
-                #         #f.write(" [2] : " +str(tweet_item) + '\n')
-                #         f.write(" [1] : " + str(store.fetch_user_report(self.keyword)) + '\n')
-                #         f.write(" [1] : " + str(Counter(store.fetch_user_report(self.keyword))) + '\n')
-                #     print(tweet_item)
-
-                # if(time.time() >= self.curr_time + 120 and  time.time() == self.curr_time + 180):
-                #     with open(staus_path, "w") as f:
-                        
-                #         f.write(" [3] : " +str(tweet_item) + '\n')
-                #     print(tweet_item)
-
-                # if(time.time() >= self.curr_time + 180 and  time.time() == self.curr_time + 240):
-                #     with open(staus_path, "w") as f:
-                        
-                #         f.write(" [4] : " +str(tweet_item) + '\n')
-                #     print(tweet_item)
-
-                # if(time.time() >= self.curr_time + 240 and  time.time() <= self.curr_time + 300):
-                #     with open(staus_path, "w") as f:
-                        
-                #         f.write(" [5] : " +str(tweet_item) + '\n')
-                #     print(tweet_item)
-                
                 if(time.time() >= self.curr_time + 300 ):
                     exit()
 
@@ -126,24 +89,23 @@ class TwitterListner(tweepy.StreamListener):
             user_data = store.fetch_user_report(self.keyword)
             print(user_data)
             f.write(" [" +str(minutes) + "] : " + str(user_data) + '\n')
-            #f.write(" [" + str(minutes) + "] : "+ str(Counter(user_data)) + '\n')
+            f.write(" [" + str(minutes) + "] : "+ str(Counter(user_data)) + '\n')
         with open(content_path, "a") as f:
             content_data = store.content_report()
             print(content_data)
             f.write(" [" + str(minutes) + "] : "+  str(content_data) + '\n')
-            #f.write(" [" + str(minutes) + "] : "+  str(Counter(content_data)) + '\n')
+            f.write(" [" + str(minutes) + "] : "+  str(Counter(content_data)) + '\n')
         with open(link_path, "a") as f:
             link_data = store.link_report()
             print(link_data)
             f.write(" [" + str(minutes) + "] : "+  str(link_data) + '\n')
-            #f.write(" [" + str(minutes) + "] : "+  str(Counter(link_data)) + '\n')
+            f.write(" [" + str(minutes) + "] : "+  str(Counter(link_data)) + '\n')
 
     def generate_reports(self):
         while(True):
-            if(time.time() >= self.curr_time + 55 and time.time() <= self.curr_time + 60):
-                print("-------------------------")
+            if(time.time() >= self.curr_time + 8 and time.time() <= self.curr_time + 10):
                 self.make_file_reports(1)
-            if(time.time() >= self.curr_time + 110 and time.time() <= self.curr_time + 120):
+            if(time.time() >= self.curr_time + 118 and time.time() <= self.curr_time + 120):
                 self.make_file_reports(2)
             if(time.time() >= self.curr_time + 178 and time.time() <= self.curr_time + 180):
                 self.make_file_reports(3)
