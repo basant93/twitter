@@ -45,6 +45,8 @@ class TweetStore:
 
     def reset_tweets(self):
         self.db.ltrim(self.redis_key, 0, 1)
+        #self.db.delete( self.redis_key)
+
 
         return "Tweets key reset"
 
@@ -66,8 +68,9 @@ class TweetStore:
         for item in self.db.lrange(self.redis_key, 0, limit-1):
             tweet_obj = json.loads(item.decode('utf-8'))
             #simple_obj = defaultdict(list)
-            user_name = tweet_obj['username']
-            tweets.append(user_name )
+            if(keyword == tweet_obj['keyword']):
+                user_name = tweet_obj['username']
+                tweets.append(user_name )
         print("My tweets : ", Counter(tweets))
         return tweets
     
@@ -79,7 +82,7 @@ class TweetStore:
             tweet_obj = json.loads(item.decode('utf-8'))
             #simple_obj = defaultdict(list)
             links = tweet_obj['urls']
-            tweets.append(links)
+            tweets.extend(links)
         #print("My tweets links : ", Counter(tweets))
         return tweets
 
