@@ -1051,3 +1051,985 @@
  [3] : ['https://t.co/QeDnUmqSZm', 'https://t.co/aJP48trvnd']
  [3] : ['https://t.co/QeDnUmqSZm', 'https://t.co/aJP48trvnd']
  [3] : ['https://t.co/QeDnUmqSZm', 'https://t.co/aJP48trvnd']
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})
+ [1] : ['https://t.co/X1mgkOtB85', 'https://t.co/QeDnUmqSZm']
+ [1] : Counter({'https://t.co/QeDnUmqSZm': 1, 'https://t.co/X1mgkOtB85': 1})

@@ -7,7 +7,7 @@ import re
 from collections import Counter 
 from threading import Thread
 
-path = '/home/basant/Documents/tweet_analysis/config.json'
+path = './config.json'
 
 with open(path) as f:
     tweet_config = json.loads(f.read())
@@ -22,7 +22,7 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
 store = TweetStore()
-staus_path = '/home/basant/Documents/tweet_analysis/status_print.json'
+staus_path = './status_print.json'
 
 class TwitterListner(tweepy.StreamListener):
     def __init__(self,mins, keyword):
@@ -81,9 +81,9 @@ class TwitterListner(tweepy.StreamListener):
                     exit()
 
     def make_file_reports(self, minutes):
-        user_path = '/home/basant/Documents/tweet_analysis/user_report.txt'
-        content_path = '/home/basant/Documents/tweet_analysis/context_report.txt'
-        link_path = '/home/basant/Documents/tweet_analysis/link_report.txt'
+        user_path = './user_report.txt'
+        content_path = './context_report.txt'
+        link_path = './link_report.txt'
         with open(user_path, "a") as f:
             print("Generating repor of last ", minutes, " mins")
             user_data = store.fetch_user_report(self.keyword)
